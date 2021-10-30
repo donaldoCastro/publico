@@ -1,0 +1,10 @@
+Diferencia entre un repositorio  publico y un privado
+
+
+Repositorio privado
+
+El repositorio privado es  aquel donde se almacena y se mantiene  cualquier informacion y nadamas el propietario puede visualizar la informacion 
+
+Repositorio publico
+
+El repositorio publico es donde de se almacana y guarda informacion tambien mantiene informacon digital del propetario y caulquier persona  lo pueda visualiza y pueda leerlo de tenidamente 
